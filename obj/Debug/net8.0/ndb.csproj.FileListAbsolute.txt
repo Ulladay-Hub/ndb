@@ -12,3 +12,4 @@ C:\Users\Legen\source\good programs\ndb\obj\Debug\net8.0\refint\ndb.dll
 C:\Users\Legen\source\good programs\ndb\obj\Debug\net8.0\ndb.pdb
 C:\Users\Legen\source\good programs\ndb\obj\Debug\net8.0\ndb.genruntimeconfig.cache
 C:\Users\Legen\source\good programs\ndb\obj\Debug\net8.0\ref\ndb.dll
+C:\Users\Legen\source\good programs\ndb\obj\Debug\net8.0\ndb.sourcelink.json
